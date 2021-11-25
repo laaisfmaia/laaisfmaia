@@ -1,6 +1,4 @@
 ### Olá, eu sou a Lais Maia! 🖖👽
-
-
 - 🌱 Atualmente estou aprendendo Python e outras ferramentas utilizadas em Data Science.
 - 📫 Contate-me pelo email: laais.fmaia@gmail.com
 - 😄 Pronomes: ela/dela
@@ -12,14 +10,15 @@
 </div>
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Lais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lais-DotNet" height="30" width="40"
+  <img align="center" alt="Lais-Python" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lais-Csharp" height="80" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Lais-DotNet" height="80" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif">
+  <img align="right" alt="astro-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif">
 </div>
 
   ##
-  
   
  <div>
   <a href = "mailto:laais.fmaia@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
