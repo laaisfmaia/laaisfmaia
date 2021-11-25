@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/laaisfmaia">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=laaisfmaia&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=GitHub Stats" alt="GitHub Stats"/>
-   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laaisfmaia&langs_count=10&layout=compact&theme=dracula&card_width=445" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laaisfmaia&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=GitHub Stats" alt="GitHub Stats"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laaisfmaia&langs_count=10&layout=compact&theme=dracula&card_width=445" alt="Most Used Languages"/>
 </div>
  
  <div style="display: inline_block"><br>
