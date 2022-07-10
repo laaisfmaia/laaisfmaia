@@ -1,5 +1,5 @@
 ### Olá, eu sou a Lais Maia! 🖖👽
-- 🌱 Atualmente estou aprendendo Python e outras ferramentas utilizadas em Data Science.
+- 🌱 Atualmente estou aprendendo Python, SQL e outras ferramentas utilizadas em Data Science.
 - 📫 Contate-me pelo email: laais.fmaia@gmail.com
 - 😄 Pronomes: ela/dela
 
